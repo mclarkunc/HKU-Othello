@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClarkOthello</string>
+    <string name="score">SCORE</string>
+    <string name="turn">TURN:</string>
+    <string name="scoreInitial">0</string>
+    <string name="hints">SHOW HINTS:</string>
+    <string name="new_game">New Game</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="start">Start Game</string>
+    <string name="created_by">Created by: Matt Clark</string>
+    <string name="uid">UID: 3035237987</string>
+    <string name="wins">WINS!</string>
+</resources>
